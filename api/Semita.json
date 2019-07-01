@@ -1,0 +1,124 @@
+{
+  "activities": [
+    {
+      "name": "Take vitamin",
+      "notes": "notessss",
+      "category": "Health",
+      "userId": "",
+      "id": 1
+    },
+    {
+      "name": "Study",
+      "notes": "",
+      "category": "Learning",
+      "userId": "",
+      "id": 2
+    },
+    {
+      "name": "Eat healthy",
+      "notes": "",
+      "category": "Diet",
+      "userId": "",
+      "id": 3
+    },
+    {
+      "name": "other",
+      "notes": "",
+      "category": "Other",
+      "userId": "",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "username": "Ellie",
+      "password": "test",
+      "id": 300
+    },
+    {
+      "username": "Emily",
+      "password": "test",
+      "id": 301
+    },
+    {
+      "username": "Shelley",
+      "password": "test",
+      "id": 302
+    },
+    {
+      "username": "Carly",
+      "password": "test",
+      "id": 303
+    },
+    {
+      "username": "Brenda",
+      "password": "test",
+      "id": 304
+    }
+  ],
+  "rating": [
+    {
+      "rate": 100,
+      "activitiesId": 1,
+      "date": "2019-06-28",
+      "name": "Take vitamin",
+      "id": 1
+    },
+    {
+      "rate": 0,
+      "activitiesId": 1,
+      "date": "2019-06-28",
+      "name": "Study",
+      "id": 2
+    },
+    {
+      "rate": 50,
+      "activitiesId": 1,
+      "date": "2019-06-28",
+      "name": "Eat healthy",
+      "id": 3
+    },
+    {
+      "rate": 75,
+      "activitiesId": 1,
+      "date": "2019-06-28",
+      "name": "other",
+      "id": 4
+    },
+    {
+      "rate": 25,
+      "activitiesId": 1,
+      "date": "2019-06-29",
+      "name": "Take vitamin",
+      "id": 5
+    },
+    {
+      "rate": 100,
+      "activitiesId": 1,
+      "date": "2019-06-29",
+      "name": "Study",
+      "id": 6
+    },
+    {
+      "rate": 25,
+      "activitiesId": 1,
+      "date": "2019-06-28",
+      "name": "Study",
+      "id": 7
+    },
+    {
+      "rate": 100,
+      "activitiesId": 1,
+      "date": "2019-06-21",
+      "name": "Take vitamin",
+      "id": 8
+    },
+    {
+      "rate": 100,
+      "activitiesId": 1,
+      "date": "2019-06-21",
+      "name": "Take vitamin",
+      "id": 9
+    }
+  ]
+}
